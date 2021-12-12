@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "10a3ec867aa95034",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bb6a4efd1b27c4b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Monografia/monografia.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9fc5b8e319c7ed68",
+    "type": "split",
+    "children": [
+      {
+        "id": "a82be28bf25f9277",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78038c8bff511875",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d4ba65f95265115a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "3b8fa11e079bbb5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0dd900fce409e2df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d80640ef73edfa59",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Monografia/monografia.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4bb6a4efd1b27c4b",
+  "lastOpenFiles": [
+    "Monografia/monografia.md",
+    "Untitled.md",
+    "Clase 1/Modulaciones Analogicas.md",
+    "monografia.md",
+    "Clase 7/Pasted image 20211027170901.png",
+    "Clase 7/Modulacion digital.md",
+    "Pasted image 20211013174239.png",
+    "Clase 5/Television 2.md",
+    "Clase 5/Untitled.md",
+    "Clase 4/Television.md"
+  ]
+}
